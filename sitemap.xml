@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://ranjan-p-mishra.github.io/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://ranjan-p-mishra.github.io/index.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ranjan-p-mishra.github.io/portfolio.html</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ranjan-p-mishra.github.io/documents/Ranjan_Prakash_Mishra_CV.pdf</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ranjan-p-mishra.github.io/documents/xrec_reproducibility.pdf</loc>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ranjan-p-mishra.github.io/documents/eric_fromm_touche.pdf</loc>
+  <priority>0.64</priority>
+</url>
+
+</urlset>
